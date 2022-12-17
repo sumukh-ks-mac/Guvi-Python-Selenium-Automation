@@ -1,0 +1,1230 @@
+1671248821862	geckodriver	INFO	Listening on 127.0.0.1:61583
+1671248822904	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileTHdESn"
+1671248824623	Marionette	INFO	Marionette enabled
+1671248824733	Marionette	INFO	Listening on port 61591
+Read port: 61591
+1671248825251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileTHdESn/search.json.mozlz4", (void 0)))
+1671248834147	Marionette	INFO	Stopped listening on port 61591
+1671248835136	geckodriver	INFO	Listening on 127.0.0.1:61624
+1671248836165	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile8hOPmO"
+1671248837113	Marionette	INFO	Marionette enabled
+1671248837156	Marionette	INFO	Listening on port 61631
+Read port: 61631
+1671248837537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile8hOPmO/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671248851572	Marionette	INFO	Stopped listening on port 61631
+1671249312264	geckodriver	INFO	Listening on 127.0.0.1:61741
+1671249313296	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileaK2yfX"
+1671249314941	Marionette	INFO	Marionette enabled
+1671249315037	Marionette	INFO	Listening on port 61748
+Read port: 61748
+1671249315553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileaK2yfX/search.json.mozlz4", (void 0)))
+1671249322573	Marionette	INFO	Stopped listening on port 61748
+1671249323464	geckodriver	INFO	Listening on 127.0.0.1:61777
+1671249324484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilevPj1Gj"
+1671249325750	Marionette	INFO	Marionette enabled
+1671249325807	Marionette	INFO	Listening on port 61786
+Read port: 61786
+1671249326313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilevPj1Gj/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671249338757	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671249338979	Marionette	INFO	Stopped listening on port 61786
+1671249860316	geckodriver	INFO	Listening on 127.0.0.1:61854
+1671249861345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileROucsu"
+1671249862904	Marionette	INFO	Marionette enabled
+1671249862977	Marionette	INFO	Listening on port 61861
+Read port: 61861
+1671249863417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileROucsu/search.json.mozlz4", (void 0)))
+1671249874521	Marionette	INFO	Stopped listening on port 61861
+1671249875475	geckodriver	INFO	Listening on 127.0.0.1:61890
+1671249876485	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilemn6iOw"
+1671249877782	Marionette	INFO	Marionette enabled
+1671249877893	Marionette	INFO	Listening on port 61897
+Read port: 61897
+1671249878739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilemn6iOw/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671249894652	Marionette	INFO	Stopped listening on port 61897
+1671250226288	geckodriver	INFO	Listening on 127.0.0.1:61977
+1671250227319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilegSWEu1"
+1671250229082	Marionette	INFO	Marionette enabled
+1671250229153	Marionette	INFO	Listening on port 61984
+Read port: 61984
+1671250229714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilegSWEu1/search.json.mozlz4", (void 0)))
+1671250238650	Marionette	INFO	Stopped listening on port 61984
+1671250239660	geckodriver	INFO	Listening on 127.0.0.1:62013
+1671250240679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileDGfNhK"
+1671250242005	Marionette	INFO	Marionette enabled
+1671250242089	Marionette	INFO	Listening on port 62020
+Read port: 62020
+1671250242561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileDGfNhK/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671250255781	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671250255995	Marionette	INFO	Stopped listening on port 62020
+1671250256856	geckodriver	INFO	Listening on 127.0.0.1:62051
+1671250257895	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile2lBKvh"
+1671250259389	Marionette	INFO	Marionette enabled
+1671250259433	Marionette	INFO	Listening on port 62058
+Read port: 62058
+1671250259936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile2lBKvh/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671250284510	Marionette	INFO	Stopped listening on port 62058
+1671250392587	geckodriver	INFO	Listening on 127.0.0.1:62117
+1671250393607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileu4nPzc"
+1671250395246	Marionette	INFO	Marionette enabled
+1671250395339	Marionette	INFO	Listening on port 62124
+Read port: 62124
+1671250395815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileu4nPzc/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671250409170	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671250419499	Marionette	INFO	Stopped listening on port 62124
+1671250453691	geckodriver	INFO	Listening on 127.0.0.1:62164
+1671250454725	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilevHjOAV"
+1671250456300	Marionette	INFO	Marionette enabled
+1671250456433	Marionette	INFO	Listening on port 62171
+Read port: 62171
+1671250457015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilevHjOAV/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671250479771	Marionette	INFO	Stopped listening on port 62171
+1671250777331	geckodriver	INFO	Listening on 127.0.0.1:62237
+1671250778367	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileGJHizg"
+1671250780167	Marionette	INFO	Marionette enabled
+1671250780231	Marionette	INFO	Listening on port 62244
+Read port: 62244
+1671250780981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileGJHizg/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671250796573	Marionette	INFO	Stopped listening on port 62244
+1671250797421	geckodriver	INFO	Listening on 127.0.0.1:62275
+1671250798439	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileixz9sl"
+1671250799213	Marionette	INFO	Marionette enabled
+1671250799401	Marionette	INFO	Listening on port 62282
+Read port: 62282
+1671250800390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileixz9sl/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671250824993	Marionette	INFO	Stopped listening on port 62282
+1671250848517	geckodriver	INFO	Listening on 127.0.0.1:62323
+1671250849546	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilej3frNx"
+1671250850850	Marionette	INFO	Marionette enabled
+1671250850902	Marionette	INFO	Listening on port 62330
+Read port: 62330
+1671250851769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilej3frNx/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671250866622	Marionette	INFO	Stopped listening on port 62330
+1671250868339	geckodriver	INFO	Listening on 127.0.0.1:62365
+1671250869377	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileEIKEgZ"
+1671250870471	Marionette	INFO	Marionette enabled
+1671250870544	Marionette	INFO	Listening on port 62372
+Read port: 62372
+1671250871318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileEIKEgZ/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671250883799	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671250894030	Marionette	INFO	Stopped listening on port 62372
+1671251164364	geckodriver	INFO	Listening on 127.0.0.1:62473
+1671251165395	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileQKcJxW"
+1671251167049	Marionette	INFO	Marionette enabled
+1671251167119	Marionette	INFO	Listening on port 62481
+Read port: 62481
+1671251167604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileQKcJxW/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671251181496	Marionette	INFO	Stopped listening on port 62481
+1671251183174	geckodriver	INFO	Listening on 127.0.0.1:62516
+1671251184196	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilen0kvgP"
+1671251185821	Marionette	INFO	Marionette enabled
+1671251185878	Marionette	INFO	Listening on port 62526
+Read port: 62526
+1671251186486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilen0kvgP/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671251210019	Marionette	INFO	Stopped listening on port 62526
+1671251289810	geckodriver	INFO	Listening on 127.0.0.1:62567
+1671251290835	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileyyOET6"
+1671251291527	Marionette	INFO	Marionette enabled
+1671251291625	Marionette	INFO	Listening on port 62574
+Read port: 62574
+1671251292247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileyyOET6/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671251304399	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671251304613	Marionette	INFO	Stopped listening on port 62574
+1671251305452	geckodriver	INFO	Listening on 127.0.0.1:62605
+1671251306473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile6MHnF5"
+1671251307249	Marionette	INFO	Marionette enabled
+1671251307345	Marionette	INFO	Listening on port 62613
+Read port: 62613
+1671251308066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile6MHnF5/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671251321299	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671251331523	Marionette	INFO	Stopped listening on port 62613
+1671251369505	geckodriver	INFO	Listening on 127.0.0.1:62658
+1671251370535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileWpLnca"
+1671251371805	Marionette	INFO	Marionette enabled
+1671251371860	Marionette	INFO	Listening on port 62665
+Read port: 62665
+1671251372532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileWpLnca/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671251384862	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671251385094	Marionette	INFO	Stopped listening on port 62665
+1671251385968	geckodriver	INFO	Listening on 127.0.0.1:62696
+1671251386984	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileloS8AZ"
+1671251388208	Marionette	INFO	Marionette enabled
+1671251388264	Marionette	INFO	Listening on port 62703
+Read port: 62703
+1671251388870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileloS8AZ/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671251411686	Marionette	INFO	Stopped listening on port 62703
+1671251440352	geckodriver	INFO	Listening on 127.0.0.1:62742
+1671251441372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileJwSWVv"
+1671251442273	Marionette	INFO	Marionette enabled
+1671251442312	Marionette	INFO	Listening on port 62749
+Read port: 62749
+1671251442790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileJwSWVv/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671251455826	Marionette	INFO	Stopped listening on port 62749
+1671251456790	geckodriver	INFO	Listening on 127.0.0.1:62780
+1671251457806	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilejCOB0Z"
+1671251458673	Marionette	INFO	Marionette enabled
+1671251458710	Marionette	INFO	Listening on port 62787
+Read port: 62787
+1671251459189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilejCOB0Z/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671251481806	Marionette	INFO	Stopped listening on port 62787
+1671251601831	geckodriver	INFO	Listening on 127.0.0.1:62842
+1671251602860	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofiledJFEeK"
+1671251603764	Marionette	INFO	Marionette enabled
+1671251603874	Marionette	INFO	Listening on port 62849
+Read port: 62849
+1671251604693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofiledJFEeK/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671251617667	Marionette	INFO	Stopped listening on port 62849
+1671251618612	geckodriver	INFO	Listening on 127.0.0.1:62885
+1671251619625	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilezleLV0"
+1671251620863	Marionette	INFO	Marionette enabled
+1671251620941	Marionette	INFO	Listening on port 62892
+Read port: 62892
+1671251621582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilezleLV0/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671251644070	Marionette	INFO	Stopped listening on port 62892
+1671264943623	geckodriver	INFO	Listening on 127.0.0.1:50163
+1671264944667	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile5gZEfH"
+1671264946859	Marionette	INFO	Marionette enabled
+1671264946940	Marionette	INFO	Listening on port 50170
+Read port: 50170
+Read port: 50170
+1671264948954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile5gZEfH/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671264966188	Marionette	INFO	Stopped listening on port 50170
+1671264967158	geckodriver	INFO	Listening on 127.0.0.1:50211
+1671264968168	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile96NPLY"
+1671264969603	Marionette	INFO	Marionette enabled
+1671264969677	Marionette	INFO	Listening on port 50218
+Read port: 50218
+1671264970060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile96NPLY/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671264993724	Marionette	INFO	Stopped listening on port 50218
+1671264994699	geckodriver	INFO	Listening on 127.0.0.1:50261
+1671264995708	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile2WpblT"
+1671264996990	Marionette	INFO	Marionette enabled
+1671264997038	Marionette	INFO	Listening on port 50268
+Read port: 50268
+1671264997518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile2WpblT/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671265062635	Marionette	INFO	Stopped listening on port 50268
+1671272260615	geckodriver	INFO	Listening on 127.0.0.1:53524
+1671272261623	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilechkPmW"
+1671272263804	Marionette	INFO	Marionette enabled
+1671272263865	Marionette	INFO	Listening on port 53531
+Read port: 53531
+Read port: 53531
+1671272265598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilechkPmW/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671272281411	Marionette	INFO	Stopped listening on port 53531
+1671272282406	geckodriver	INFO	Listening on 127.0.0.1:53570
+1671272283419	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile7Gh3FB"
+1671272284993	Marionette	INFO	Marionette enabled
+1671272285103	Marionette	INFO	Listening on port 53578
+Read port: 53578
+1671272285779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile7Gh3FB/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671272300733	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671272311569	geckodriver	INFO	Listening on 127.0.0.1:53621
+1671272312571	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileBoTtdK"
+1671272314317	Marionette	INFO	Marionette enabled
+1671272314369	Marionette	INFO	Listening on port 53628
+Read port: 53628
+1671272315184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileBoTtdK/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671272384121	Marionette	INFO	Stopped listening on port 53628
+1671272434568	geckodriver	INFO	Listening on 127.0.0.1:53674
+1671272435593	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilelcmRI5"
+1671272437119	Marionette	INFO	Marionette enabled
+1671272437181	Marionette	INFO	Listening on port 53681
+Read port: 53681
+1671272438316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilelcmRI5/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671272453590	Marionette	INFO	Stopped listening on port 53681
+1671272454480	geckodriver	INFO	Listening on 127.0.0.1:53716
+1671272455483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilelT5atJ"
+1671272457116	Marionette	INFO	Marionette enabled
+1671272457182	Marionette	INFO	Listening on port 53723
+Read port: 53723
+1671272457829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilelT5atJ/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671272484959	Marionette	INFO	Stopped listening on port 53723
+1671272486233	geckodriver	INFO	Listening on 127.0.0.1:53775
+1671272487242	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileLnU0kJ"
+1671272488135	Marionette	INFO	Marionette enabled
+1671272488450	Marionette	INFO	Listening on port 53782
+Read port: 53782
+1671272489240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1671272489823	Marionette	INFO	Stopped listening on port 53578
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileLnU0kJ/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671272557130	Marionette	INFO	Stopped listening on port 53782
+1671272557989	geckodriver	INFO	Listening on 127.0.0.1:53825
+1671272559013	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileHich9Z"
+1671272560188	Marionette	INFO	Marionette enabled
+1671272560289	Marionette	INFO	Listening on port 53832
+Read port: 53832
+1671272561032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileHich9Z/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671272656065	Marionette	INFO	Stopped listening on port 53832
+1671272766367	geckodriver	INFO	Listening on 127.0.0.1:53908
+1671272767390	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilebjDAnh"
+1671272768371	Marionette	INFO	Marionette enabled
+1671272768425	Marionette	INFO	Listening on port 53915
+Read port: 53915
+1671272768854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilebjDAnh/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671272781809	Marionette	INFO	Stopped listening on port 53915
+1671272782678	geckodriver	INFO	Listening on 127.0.0.1:53954
+1671272783692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileGe6fqe"
+1671272784418	Marionette	INFO	Marionette enabled
+1671272784516	Marionette	INFO	Listening on port 53961
+Read port: 53961
+1671272785245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileGe6fqe/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671272808496	Marionette	INFO	Stopped listening on port 53961
+1671272809359	geckodriver	INFO	Listening on 127.0.0.1:53993
+1671272810376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile6RKmwY"
+1671272811234	Marionette	INFO	Marionette enabled
+1671272811284	Marionette	INFO	Listening on port 54000
+Read port: 54000
+1671272811733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile6RKmwY/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671272878061	Marionette	INFO	Stopped listening on port 54000
+1671272878928	geckodriver	INFO	Listening on 127.0.0.1:54048
+1671272879948	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileVrPToI"
+1671272880880	Marionette	INFO	Marionette enabled
+1671272880948	Marionette	INFO	Listening on port 54055
+Read port: 54055
+1671272881340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileVrPToI/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671272973295	Marionette	INFO	Stopped listening on port 54055
+1671274184385	geckodriver	INFO	Listening on 127.0.0.1:54366
+1671274185397	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileSvYpb7"
+1671274187298	Marionette	INFO	Marionette enabled
+1671274187359	Marionette	INFO	Listening on port 54374
+Read port: 54374
+1671274187770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileSvYpb7/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671274203900	Marionette	INFO	Stopped listening on port 54374
+1671274204916	geckodriver	INFO	Listening on 127.0.0.1:54411
+1671274205921	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilefp8MiC"
+1671274207414	Marionette	INFO	Marionette enabled
+1671274207491	Marionette	INFO	Listening on port 54418
+Read port: 54418
+1671274207939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilefp8MiC/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671274232713	Marionette	INFO	Stopped listening on port 54418
+1671274233700	geckodriver	INFO	Listening on 127.0.0.1:54453
+1671274234702	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile0Fyi22"
+1671274236512	Marionette	INFO	Marionette enabled
+1671274236570	Marionette	INFO	Listening on port 54460
+Read port: 54460
+1671274237268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile0Fyi22/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671274279029	Marionette	INFO	Stopped listening on port 54460
+1671274280676	geckodriver	INFO	Listening on 127.0.0.1:54507
+1671274281707	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilelDRIBh"
+1671274282912	Marionette	INFO	Marionette enabled
+1671274283001	Marionette	INFO	Listening on port 54518
+Read port: 54518
+1671274284035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilelDRIBh/search.json.mozlz4", (void 0)))
+1671274287129	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1671274287537	Marionette	INFO	Stopped listening on port 54518
+1671274288401	geckodriver	INFO	Listening on 127.0.0.1:54526
+1671274289417	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile8UxkGZ"
+1671274290359	Marionette	INFO	Marionette enabled
+1671274290397	Marionette	INFO	Listening on port 54533
+Read port: 54533
+1671274290856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile8UxkGZ/search.json.mozlz4", (void 0)))
+1671274294567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1671274295287	Marionette	INFO	Stopped listening on port 54533
+1671274328386	geckodriver	INFO	Listening on 127.0.0.1:54600
+1671274329416	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileiHUZVG"
+1671274331115	Marionette	INFO	Marionette enabled
+1671274331180	Marionette	INFO	Listening on port 54615
+Read port: 54615
+1671274331711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileiHUZVG/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1671274366065	geckodriver	INFO	Listening on 127.0.0.1:54729
+1671274367080	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile2TeotA"
+1671274368060	Marionette	INFO	Marionette enabled
+1671274368130	Marionette	INFO	Listening on port 54749
+Read port: 54749
+1671274368854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile2TeotA/search.json.mozlz4", (void 0)))
+1671274383250	geckodriver	INFO	Listening on 127.0.0.1:54811
+1671274384257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileEWj5Xb"
+1671274385745	Marionette	INFO	Marionette enabled
+1671274385795	Marionette	INFO	Listening on port 54821
+Read port: 54821
+1671274386443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileEWj5Xb/search.json.mozlz4", (void 0)))
+1671274499185	Marionette	INFO	Stopped listening on port 54615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1671274501291	Marionette	INFO	Stopped listening on port 54821
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1671274501442	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+[2022-12-17T10:55:01Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1671274501688	geckodriver	INFO	Listening on 127.0.0.1:54895
+1671274502684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileKbPDQU"
+1671274503890	Marionette	INFO	Marionette enabled
+1671274503933	Marionette	INFO	Listening on port 54902
+Read port: 54902
+1671274504662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1671274505718	Marionette	INFO	Stopped listening on port 54749
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileKbPDQU/search.json.mozlz4", (void 0)))
+1671274515164	geckodriver	INFO	Listening on 127.0.0.1:54931
+1671274516285	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileu0P8hm"
+1671274519757	Marionette	INFO	Marionette enabled
+1671274519831	Marionette	INFO	Listening on port 54945
+Read port: 54945
+Read port: 54945
+1671274521741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileu0P8hm/search.json.mozlz4", (void 0)))
+1671274543474	geckodriver	INFO	Listening on 127.0.0.1:54978
+1671274544492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile83Na9B"
+1671274545721	Marionette	INFO	Marionette enabled
+1671274545771	Marionette	INFO	Listening on port 54985
+Read port: 54985
+1671274546275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile83Na9B/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671274563139	Marionette	INFO	Stopped listening on port 54985
+1671274564038	geckodriver	INFO	Listening on 127.0.0.1:55019
+1671274565044	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilefd5tTb"
+1671274566497	Marionette	INFO	Marionette enabled
+1671274566596	Marionette	INFO	Listening on port 55026
+Read port: 55026
+1671274566961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilefd5tTb/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671274591493	Marionette	INFO	Stopped listening on port 55026
+1671274592493	geckodriver	INFO	Listening on 127.0.0.1:55060
+1671274593494	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileyrOQA7"
+1671274594947	Marionette	INFO	Marionette enabled
+1671274595003	Marionette	INFO	Listening on port 55067
+Read port: 55067
+1671274595483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileyrOQA7/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671274662644	Marionette	INFO	Stopped listening on port 55067
+1671274663634	geckodriver	INFO	Listening on 127.0.0.1:55103
+1671274664637	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileTFP3Cv"
+1671274666051	Marionette	INFO	Marionette enabled
+1671274666112	Marionette	INFO	Listening on port 55110
+Read port: 55110
+1671274666578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileTFP3Cv/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671274759731	Marionette	INFO	Stopped listening on port 55110
+1671274760735	geckodriver	INFO	Listening on 127.0.0.1:55158
+1671274761749	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilewPjkdj"
+1671274763046	Marionette	INFO	Marionette enabled
+1671274763117	Marionette	INFO	Listening on port 55165
+Read port: 55165
+1671274763598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilewPjkdj/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671274815655	Marionette	INFO	Stopped listening on port 55165
+1671274925060	geckodriver	INFO	Listening on 127.0.0.1:55253
+1671274926083	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilekzrq2p"
+1671274927617	Marionette	INFO	Marionette enabled
+1671274927696	Marionette	INFO	Listening on port 55260
+Read port: 55260
+1671274928185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilekzrq2p/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671274977093	Marionette	INFO	Stopped listening on port 55260
+1671275284610	geckodriver	INFO	Listening on 127.0.0.1:55405
+1671275285632	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilecQaVtp"
+1671275287649	Marionette	INFO	Marionette enabled
+1671275287719	Marionette	INFO	Listening on port 55412
+Read port: 55412
+1671275288170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilecQaVtp/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671275366740	Marionette	INFO	Stopped listening on port 55412
+1671275416157	geckodriver	INFO	Listening on 127.0.0.1:55456
+1671275417179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileVrECgb"
+1671275418530	Marionette	INFO	Marionette enabled
+1671275418575	Marionette	INFO	Listening on port 55463
+Read port: 55463
+1671275419020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileVrECgb/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671275437783	Marionette	INFO	Stopped listening on port 55463
+1671275438704	geckodriver	INFO	Listening on 127.0.0.1:55499
+1671275439702	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileN3Sa0i"
+1671275441077	Marionette	INFO	Marionette enabled
+1671275441128	Marionette	INFO	Listening on port 55506
+Read port: 55506
+1671275441604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileN3Sa0i/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671275469362	Marionette	INFO	Stopped listening on port 55506
+1671275470324	geckodriver	INFO	Listening on 127.0.0.1:55538
+1671275471332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilernXz5j"
+1671275472747	Marionette	INFO	Marionette enabled
+1671275472807	Marionette	INFO	Listening on port 55547
+Read port: 55547
+1671275473265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilernXz5j/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671275543911	Marionette	INFO	Stopped listening on port 55547
+1671275544913	geckodriver	INFO	Listening on 127.0.0.1:55588
+1671275545918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileC4cwrp"
+1671275547311	Marionette	INFO	Marionette enabled
+1671275547364	Marionette	INFO	Listening on port 55595
+Read port: 55595
+1671275547872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileC4cwrp/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671275595421	Marionette	INFO	Stopped listening on port 55595
+1671275596307	geckodriver	INFO	Listening on 127.0.0.1:55635
+1671275597308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilez8JAd0"
+1671275598702	Marionette	INFO	Marionette enabled
+1671275598771	Marionette	INFO	Listening on port 55642
+Read port: 55642
+1671275599185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilez8JAd0/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671275644048	Marionette	INFO	Stopped listening on port 55642
+1671275711543	geckodriver	INFO	Listening on 127.0.0.1:55692
+1671275712553	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilemMzDNc"
+1671275714363	Marionette	INFO	Marionette enabled
+1671275714416	Marionette	INFO	Listening on port 55702
+Read port: 55702
+1671275714997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilemMzDNc/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671275730489	Marionette	INFO	Stopped listening on port 55702
+1671275731494	geckodriver	INFO	Listening on 127.0.0.1:55735
+1671275732502	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileFGxz0G"
+1671275733883	Marionette	INFO	Marionette enabled
+1671275733981	Marionette	INFO	Listening on port 55744
+Read port: 55744
+1671275734357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileFGxz0G/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671275761286	Marionette	INFO	Stopped listening on port 55744
+1671275762187	geckodriver	INFO	Listening on 127.0.0.1:55777
+1671275763185	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileONfyCA"
+1671275764690	Marionette	INFO	Marionette enabled
+1671275764757	Marionette	INFO	Listening on port 55784
+Read port: 55784
+1671275765152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileONfyCA/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671275838904	Marionette	INFO	Stopped listening on port 55784
+1671275839888	geckodriver	INFO	Listening on 127.0.0.1:55822
+1671275840881	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilekSGHd6"
+1671275842352	Marionette	INFO	Marionette enabled
+1671275842408	Marionette	INFO	Listening on port 55829
+Read port: 55829
+1671275842913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilekSGHd6/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671275891003	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671275940543	Marionette	INFO	Stopped listening on port 55829
+1671275941443	geckodriver	INFO	Listening on 127.0.0.1:55884
+1671275942455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile9xaYcx"
+1671275943847	Marionette	INFO	Marionette enabled
+1671275943909	Marionette	INFO	Listening on port 55891
+Read port: 55891
+1671275944317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile9xaYcx/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671276025737	Marionette	INFO	Stopped listening on port 55891
+1671278923590	geckodriver	INFO	Listening on 127.0.0.1:56223
+1671278924612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileSjrma3"
+1671278926621	Marionette	INFO	Marionette enabled
+1671278926679	Marionette	INFO	Listening on port 56230
+Read port: 56230
+1671278927231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileSjrma3/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671278940037	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671278940274	Marionette	INFO	Stopped listening on port 56230
+1671278941455	geckodriver	INFO	Listening on 127.0.0.1:56270
+1671278942465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile7Tmp7f"
+1671278944057	Marionette	INFO	Marionette enabled
+1671278944104	Marionette	INFO	Listening on port 56278
+Read port: 56278
+1671278944622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile7Tmp7f/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671278957258	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671278967479	Marionette	INFO	Stopped listening on port 56278
+1671278968685	geckodriver	INFO	Listening on 127.0.0.1:56314
+1671278969677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilexVSlk7"
+1671278971380	Marionette	INFO	Marionette enabled
+1671278971541	Marionette	INFO	Listening on port 56321
+Read port: 56321
+1671278972187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilexVSlk7/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671279040330	Marionette	INFO	Stopped listening on port 56321
+1671279041684	geckodriver	INFO	Listening on 127.0.0.1:56368
+1671279042700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileeCsXtO"
+1671279044057	Marionette	INFO	Marionette enabled
+1671279044130	Marionette	INFO	Listening on port 56376
+Read port: 56376
+1671279044541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileeCsXtO/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671279056909	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671279067633	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671279082026	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671279088747	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671279092470	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671279138120	Marionette	INFO	Stopped listening on port 56376
+1671279139453	geckodriver	INFO	Listening on 127.0.0.1:56435
+1671279140456	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileX0HZ3K"
+1671279142149	Marionette	INFO	Marionette enabled
+1671279142193	Marionette	INFO	Listening on port 56443
+Read port: 56443
+1671279142862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileX0HZ3K/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671279156281	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671279167003	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671279181418	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671279188145	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671279191877	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671279202643	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1671279222873	Marionette	INFO	Stopped listening on port 56443
+1671300802242	geckodriver	INFO	Listening on 127.0.0.1:56896
+1671300803252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileFWk4op"
+1671300804934	Marionette	INFO	Marionette enabled
+1671300805025	Marionette	INFO	Listening on port 56903
+Read port: 56903
+1671300805530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileFWk4op/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671300820713	Marionette	INFO	Stopped listening on port 56903
+1671301966724	geckodriver	INFO	Listening on 127.0.0.1:57310
+1671301967748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileZb72al"
+1671301969690	geckodriver	INFO	Listening on 127.0.0.1:57317
+1671301969720	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilekUiwVT"
+1671301979001	Marionette	INFO	Marionette enabled
+1671301979108	Marionette	INFO	Listening on port 57322
+Read port: 57322
+1671301979757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilekUiwVT/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671302008004	Marionette	INFO	Stopped listening on port 57322
+1671302009095	geckodriver	INFO	Listening on 127.0.0.1:57404
+1671302010161	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileuPtJKy"
+1671302011981	Marionette	INFO	Marionette enabled
+1671302012029	Marionette	INFO	Listening on port 57411
+Read port: 57411
+1671302012440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileuPtJKy/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671302026576	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671302079338	Marionette	INFO	Stopped listening on port 57411
+1671302130432	geckodriver	INFO	Listening on 127.0.0.1:57450
+1671302131452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileMn1dfq"
+1671302132851	Marionette	INFO	Marionette enabled
+1671302132898	Marionette	INFO	Listening on port 57457
+Read port: 57457
+1671302133476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileMn1dfq/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671302147883	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671302148106	Marionette	INFO	Stopped listening on port 57457
+1671302148992	geckodriver	INFO	Listening on 127.0.0.1:57490
+1671302149983	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileJft0jJ"
+1671302151343	Marionette	INFO	Marionette enabled
+1671302151410	Marionette	INFO	Listening on port 57497
+Read port: 57497
+1671302151887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileJft0jJ/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671302176449	Marionette	INFO	Stopped listening on port 57497
+1671302177561	geckodriver	INFO	Listening on 127.0.0.1:57607
+1671302178558	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile28La57"
+1671302179918	Marionette	INFO	Marionette enabled
+1671302179965	Marionette	INFO	Listening on port 57620
+Read port: 57620
+1671302180460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile28La57/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671302254164	Marionette	INFO	Stopped listening on port 57620
+1671302265137	Marionette	INFO	Stopped listening on port 54902
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1671302266806	Marionette	INFO	Stopped listening on port 54945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1671304652597	geckodriver	INFO	Listening on 127.0.0.1:57856
+1671304653628	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileCEgTjI"
+1671304655448	Marionette	INFO	Marionette enabled
+1671304655525	Marionette	INFO	Listening on port 57863
+Read port: 57863
+1671304655987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileCEgTjI/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671304815847	Marionette	INFO	Stopped listening on port 57863
+1671304816435	geckodriver	INFO	Listening on 127.0.0.1:57914
+1671304817459	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilegdOpbH"
+1671304819317	Marionette	INFO	Marionette enabled
+1671304819376	Marionette	INFO	Listening on port 57922
+Read port: 57922
+1671304820316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilegdOpbH/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671304972720	Marionette	INFO	Stopped listening on port 57922
+1671305518076	geckodriver	INFO	Listening on 127.0.0.1:57991
+1671305519094	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileniPliS"
+1671305520717	Marionette	INFO	Marionette enabled
+1671305520772	Marionette	INFO	Listening on port 57998
+Read port: 57998
+1671305521270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileniPliS/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671305543259	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671305543475	Marionette	INFO	Stopped listening on port 57998
+1671305545049	geckodriver	INFO	Listening on 127.0.0.1:58035
+1671305546053	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile1DZTok"
+1671305547553	Marionette	INFO	Marionette enabled
+1671305547619	Marionette	INFO	Listening on port 58043
+Read port: 58043
+1671305548101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile1DZTok/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671305581238	Marionette	INFO	Stopped listening on port 58043
+1671305582440	geckodriver	INFO	Listening on 127.0.0.1:58074
+1671305583438	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilezuohNL"
+1671305585382	Marionette	INFO	Marionette enabled
+1671305585515	Marionette	INFO	Listening on port 58083
+Read port: 58083
+1671305586774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilezuohNL/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671305648434	Marionette	INFO	Stopped listening on port 58083
+1671305649423	geckodriver	INFO	Listening on 127.0.0.1:58121
+1671305650436	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilez7gmFa"
+1671305651437	Marionette	INFO	Marionette enabled
+1671305651527	Marionette	INFO	Listening on port 58128
+Read port: 58128
+1671305652588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilez7gmFa/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671305704292	Marionette	INFO	Stopped listening on port 58128
+1671305705779	geckodriver	INFO	Listening on 127.0.0.1:58166
+1671305706800	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileE68Iyg"
+1671305707756	Marionette	INFO	Marionette enabled
+1671305707809	Marionette	INFO	Listening on port 58173
+Read port: 58173
+1671305708239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileE68Iyg/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671305758004	Marionette	INFO	Stopped listening on port 58173
+1671305786322	geckodriver	INFO	Listening on 127.0.0.1:58217
+1671305787346	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile6bzEFr"
+1671305788778	Marionette	INFO	Marionette enabled
+1671305788879	Marionette	INFO	Listening on port 58224
+Read port: 58224
+1671305789269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofile6bzEFr/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671305807182	Marionette	INFO	Stopped listening on port 58224
+1671305808108	geckodriver	INFO	Listening on 127.0.0.1:58257
+1671305809102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilefMsv9J"
+1671305810491	Marionette	INFO	Marionette enabled
+1671305810550	Marionette	INFO	Listening on port 58264
+Read port: 58264
+1671305810953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilefMsv9J/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671305839246	Marionette	INFO	Stopped listening on port 58264
+1671305840150	geckodriver	INFO	Listening on 127.0.0.1:58299
+1671305841164	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileonQ9SF"
+1671305841900	Marionette	INFO	Marionette enabled
+1671305841981	Marionette	INFO	Listening on port 58306
+Read port: 58306
+1671305842752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileonQ9SF/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671305902484	Marionette	INFO	Stopped listening on port 58306
+1671305904099	geckodriver	INFO	Listening on 127.0.0.1:58350
+1671305905114	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileCHTkWd"
+1671305906613	Marionette	INFO	Marionette enabled
+1671305906668	Marionette	INFO	Listening on port 58358
+Read port: 58358
+1671305907093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileCHTkWd/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671305961841	Marionette	INFO	Stopped listening on port 58358
+1671305962797	geckodriver	INFO	Listening on 127.0.0.1:58394
+1671305963799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilekBLocr"
+1671305965206	Marionette	INFO	Marionette enabled
+1671305965268	Marionette	INFO	Listening on port 58401
+Read port: 58401
+1671305965704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilekBLocr/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671306015147	Marionette	INFO	Stopped listening on port 58401
+1671306584263	geckodriver	INFO	Listening on 127.0.0.1:58460
+1671306585287	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileJy2l8w"
+1671306587750	Marionette	INFO	Marionette enabled
+1671306587849	Marionette	INFO	Listening on port 58467
+Read port: 58467
+1671306588255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileJy2l8w/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671306607218	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671306607440	Marionette	INFO	Stopped listening on port 58467
+1671306608312	geckodriver	INFO	Listening on 127.0.0.1:58507
+1671306609326	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileGMtOZf"
+1671306610769	Marionette	INFO	Marionette enabled
+1671306610854	Marionette	INFO	Listening on port 58514
+Read port: 58514
+1671306611290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileGMtOZf/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671306629809	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671306640032	Marionette	INFO	Stopped listening on port 58514
+1671306640881	geckodriver	INFO	Listening on 127.0.0.1:58547
+1671306641884	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileKisFwj"
+1671306642946	Marionette	INFO	Marionette enabled
+1671306643009	Marionette	INFO	Listening on port 58554
+Read port: 58554
+1671306643537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileKisFwj/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671306703461	Marionette	INFO	Stopped listening on port 58554
+1671306704387	geckodriver	INFO	Listening on 127.0.0.1:58588
+1671306705383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilepxvUiY"
+1671306706858	Marionette	INFO	Marionette enabled
+1671306706926	Marionette	INFO	Listening on port 58595
+Read port: 58595
+1671306707452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilepxvUiY/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671306763100	Marionette	INFO	Stopped listening on port 58595
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 907: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1671306763986	geckodriver	INFO	Listening on 127.0.0.1:58631
+1671306764994	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilejgDDkN"
+1671306766611	Marionette	INFO	Marionette enabled
+1671306766697	Marionette	INFO	Listening on port 58638
+Read port: 58638
+1671306767164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilejgDDkN/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671306817221	Marionette	INFO	Stopped listening on port 58638
+1671306917726	geckodriver	INFO	Listening on 127.0.0.1:58698
+1671306918773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileOdqsIu"
+1671306920261	Marionette	INFO	Marionette enabled
+1671306920316	Marionette	INFO	Listening on port 58706
+Read port: 58706
+1671306920898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileOdqsIu/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671306940017	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671306940242	Marionette	INFO	Stopped listening on port 58706
+1671306941142	geckodriver	INFO	Listening on 127.0.0.1:58738
+1671306942153	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileE9fBeb"
+1671306943540	Marionette	INFO	Marionette enabled
+1671306943610	Marionette	INFO	Listening on port 58745
+Read port: 58745
+1671306944039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileE9fBeb/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671306972294	Marionette	INFO	Stopped listening on port 58745
+1671306973185	geckodriver	INFO	Listening on 127.0.0.1:58778
+1671306974196	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileuv4Nn2"
+1671306975307	Marionette	INFO	Marionette enabled
+1671306975349	Marionette	INFO	Listening on port 58785
+Read port: 58785
+1671306975727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileuv4Nn2/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671307055406	Marionette	INFO	Stopped listening on port 58785
+1671307056489	geckodriver	INFO	Listening on 127.0.0.1:58823
+1671307057488	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileXJORrc"
+1671307059611	Marionette	INFO	Marionette enabled
+1671307059726	Marionette	INFO	Listening on port 58830
+Read port: 58830
+1671307060798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileXJORrc/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671307079693	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671307106808	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671307117532	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671307123252	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671307139182	Marionette	INFO	Stopped listening on port 58830
+1671307140511	geckodriver	INFO	Listening on 127.0.0.1:58866
+1671307141511	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileWJ0WN2"
+1671307143312	Marionette	INFO	Marionette enabled
+1671307143387	Marionette	INFO	Listening on port 58875
+Read port: 58875
+1671307143801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileWJ0WN2/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671307230168	Marionette	INFO	Stopped listening on port 58875
+1671307383321	geckodriver	INFO	Listening on 127.0.0.1:58929
+1671307384345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileL6yvGy"
+1671307385998	Marionette	INFO	Marionette enabled
+1671307386059	Marionette	INFO	Listening on port 58936
+Read port: 58936
+1671307386537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileL6yvGy/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671307405168	Marionette	INFO	Stopped listening on port 58936
+1671307406105	geckodriver	INFO	Listening on 127.0.0.1:58967
+1671307407113	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileur7EHL"
+1671307408570	Marionette	INFO	Marionette enabled
+1671307408672	Marionette	INFO	Listening on port 58974
+Read port: 58974
+1671307409069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileur7EHL/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671307437424	Marionette	INFO	Stopped listening on port 58974
+1671307438310	geckodriver	INFO	Listening on 127.0.0.1:59009
+1671307439323	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileAKRjFb"
+1671307440388	Marionette	INFO	Marionette enabled
+1671307440439	Marionette	INFO	Listening on port 59016
+Read port: 59016
+1671307440912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofileAKRjFb/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671307520661	Marionette	INFO	Stopped listening on port 59016
+1671307521617	geckodriver	INFO	Listening on 127.0.0.1:59058
+1671307522603	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilefxpEss"
+1671307523872	Marionette	INFO	Marionette enabled
+1671307523952	Marionette	INFO	Listening on port 59065
+Read port: 59065
+1671307524599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilefxpEss/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671307634647	Marionette	INFO	Stopped listening on port 59065
+1671307635819	geckodriver	INFO	Listening on 127.0.0.1:59110
+1671307636822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilefykLDC"
+1671307637798	Marionette	INFO	Marionette enabled
+1671307637922	Marionette	INFO	Listening on port 59117
+Read port: 59117
+1671307638702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/_6/x0wxhxvx3vg4z8xs19qyd61m0000gn/T/rust_mozprofilefykLDC/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671307724204	Marionette	INFO	Stopped listening on port 59117
